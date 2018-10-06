@@ -1,2 +1,2 @@
 # Swinnen
-Exercices python du livre
+Exercices Python du livre
